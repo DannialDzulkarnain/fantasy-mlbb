@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy MPL MY",
+  "description": "Interactive fantasy esports web application for Mobile Legends Professional League Malaysia (MPL MY) with realistic squad builder, MOBA battlefield map, player market, and live points scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
